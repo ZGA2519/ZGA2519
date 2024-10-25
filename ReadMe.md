@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on : Python API<br>🌱 I’m currently learning :  🔻Ruby<br>⚡ Fun fact : "const" can change value by change a data in memory
+🔭 I’m currently working on : Python API<br>🌱 I’m currently learning :  🔻Ruby<br>📚I'm study at : Thammasat University<br>⚡ Fun fact : "const" can change value by change a data in memory
 
 
 ## 🌐 Socials:
